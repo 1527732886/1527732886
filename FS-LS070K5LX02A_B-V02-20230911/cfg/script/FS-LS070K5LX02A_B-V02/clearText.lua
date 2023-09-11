@@ -1,0 +1,1 @@
+luaPrintLog(false, " ", false, true);
